@@ -1,10 +1,23 @@
+def rgb2hex(r,g,b,):
+  hex = "#{:02x}{:02x}{:02x}".format(r,g,b)
+  return hex
+
+r = int(input("Enter r: "))
+g = int(input("Enter g: "))
+b = int(input("Enter b: "))
+rgb = (r,g,b)
+hex = rgb2hex(rgb[0],rgb[1],rgb[2])
+print(hex)
+
+
+
 ### print("Type 1 for Color to Hex. Type 2 for Hex to a Color")
 ### input()
 ## if input == "1":
-print("What color would you like to convert to Hex?")
-color = input()
-if color == 'Black':
-  print('#000000')
+#print("What color would you like to convert to Hex?")
+#color = input()
+#if color == 'Black':
+  #print('#000000')
 
 
 
