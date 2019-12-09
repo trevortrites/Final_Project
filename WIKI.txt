@@ -1,0 +1,63 @@
+Draft 1
+
+I would like to create some way of recognition. Inputing an image and outputting how many pixels and the amount of red, blues, greens, etc. Such as an image of 8 bit Mario and simple imagery. One of my other ideas it similar but shapes instead, such as squares, triangles, and circles.
+
+
+
+Draft 2 
+
+My plan is to create a input color program. I would like to input a image of a color, and have the program output the color hex. I was also thinking of creating it the other way around and inputing the hex color code and outputting the color.
+
+I would like to have a prompt where you enter the image name or hex code and have it output what the opposite is. If I can pursue further with my code I would like to turn it into a simple image such as a 8 bit image and have it output all of the colors. My one issue with this is im not sure how I'll output multiple hex codes. If I go in this direction I may just do the RBG values 0-225, and the amount of pixels. My main goal is to create a prompt that will ask for the hex, and output a small image of the color, to show what the color looks like. 
+
+Draft 3 (October Check in)
+
+So far I have created a list for all of my colors and all of its values, and started making my prompt to ask for the color or hex value to convert. I plan to get some working code in the next couple weeks. 
+
+Draft 4 (November check in)
+
+I currently have my prompts and the RGB to Hex conversion working properly. But I am having trouble converting the Hex to RGB. Says there is nothing to decode. I had it working outside of my prompts and was going to try to work on importing a image then having it decode the color. But I am unsure if I have enough time before the due date. 
+
+Goals: Create a Hex color input program 
+
+Stretch Goals: Create a Hex output program
+
+Super Stretch Goals: Creating a input simple image program, that displays the amount of pixels and its values
+
+Github User:  https://github.com/trevortrites
+
+Scope: A color Converter
+
+Weekly Planned Due Dates: 
+
+Sept 28 - Enter information for colors
+
+Oct 5 - Prompts
+
+Oct12 - Enter info
+
+Oct 19 - Work on List
+
+Oct 26 - Work on List
+
+Nov 2 - Prompt working with list
+
+Nov 9 - Correct outputs
+
+Nov 16 - Correct outputs
+
+Nov 23 - Debugging/adding anything that is needed
+
+Nov 30-Debugging
+
+Dec 8   Turn in final project
+
+Milestone:
+
+Milestone 1 -  Color to Hex Converter
+
+Milestone 2 - Color to Hex and RGB Converter 
+
+Milestone 3 - Hex, RGB to Color working all ways
+
+Milestone 4 - Importing an image to name how many pixels of each color
